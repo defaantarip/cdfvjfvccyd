@@ -4,7 +4,7 @@ A web app for an energy buyer who must decide, on the day before delivery, how m
 beyond what wind will supply. It shows **the wind forecast that was actually available at the
 decision time**, compares it with metered wind output, and quantifies the error.
 
-- **Live app:** <DEPLOYED_URL>
+- **Live app:** https://cdfvjfvccyd.vercel.app/
 - **Video (pitch + walkthrough):** <VIDEO_URL>
 
 ## What it does
