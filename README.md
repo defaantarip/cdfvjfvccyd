@@ -5,7 +5,7 @@ beyond what wind will supply. It shows **the wind forecast that was actually ava
 decision time**, compares it with metered wind output, and quantifies the error.
 
 - **Live app:** https://cdfvjfvccyd.vercel.app/
-- **Video (pitch + walkthrough):** <VIDEO_URL>
+- **Video (pitch + walkthrough):** https://youtu.be/1tZrnFIrsF4
 
 ## What it does
 
